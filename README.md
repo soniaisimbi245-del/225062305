@@ -1,6 +1,6 @@
 ***REG NUMBER:225062305***
 
-# javsa
+
 #  Time-Tiered Cost Calculator
 
 A Java command-line application that calculates service or usage costs based on specific time tiers and hourly rates.
