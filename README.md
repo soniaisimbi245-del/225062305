@@ -1,6 +1,6 @@
 ***REG NUMBER:225062305***
 
-
+# javsa
 #  Time-Tiered Cost Calculator
 
 A Java command-line application that calculates service or usage costs based on specific time tiers and hourly rates.
@@ -54,12 +54,10 @@ The program uses nested `if-else` conditional statements in Java to create a dec
 
 ## How to Run
 
-1. **Clone or download the repository:**
+1. Open a terminal in your project directory.
+2. Compile the source file:
 ```bash
-java com.mycompany.sonia.Assignment
-4. Compile the Java file:
-   ```bash
-   javac com/mycompany/sonia/Assignment.java
+javac com/mycompany/sonia/Assignment.java
    
    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
    cd your-repository-name
