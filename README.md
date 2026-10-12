@@ -23,6 +23,7 @@ This application calculates total costs based on the start and end times provide
 2. Compile the Java source file by running:
 ```bash
 javac TimeTieredCostCalculator.java
+
 ```
 
 
