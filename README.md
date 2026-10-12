@@ -58,6 +58,6 @@ The program uses nested `if-else` conditional statements in Java to create a dec
 2. Compile the source file:
 ```bash
 javac com/mycompany/sonia/Assignment.java
-   
+```
    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-   cd your-repository-name
+   cd your-reposito
